@@ -1,4 +1,4 @@
-<h4 align="left">Hello everyone, I am Tran The Bao, a fourth-year student at the Posts and Telecommunications Institute of Technology. I am a passionate explorer who is always seeking opportunities to express that passion.</h4>
+<h2 align="left">Hello everyone, I am Tran The Bao, a fourth-year student at the Posts and Telecommunications Institute of Technology. I am a passionate explorer who is always seeking opportunities to express that passion.</h2>
 
 ###
 
@@ -40,17 +40,6 @@
 ###
 
 <div align="left">
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/kybac.ba.5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="thebao29092003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
