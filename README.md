@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="120" src="https://eip.gg/wp-content/uploads/2023/12/Baldurs-gate-3-Sussur-Bark-1024x576.png"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thebao29092003/thebao29092003/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -30,12 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thebao29092003/thebao29092003/output/snake.svg" alt="Snake animation" />
 
 ###
 
